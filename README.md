@@ -4,6 +4,8 @@ Access-and-payment evidence engine for buy-side healthcare equity research. One 
 
 Answers: **will Medicare pay for it, at what rate, and what is changing** — and converts the answer into model variables via a standard evidence brief that the `healthcare-equity` plugin assembles into an investable view.
 
+Built to institutional investor standards: rigorous and auditable. 
+
 ## Components
 
 | Type | Name | Purpose |
