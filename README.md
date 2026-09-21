@@ -1,4 +1,23 @@
-# cms-reimbursement
+# CMS Reimbursement — Medicare Coverage, Reimbursement, Drug Pricing & Market Access Research
+
+<!-- geo:start -->
+## What this repository helps answer
+
+Use this repository for **Medicare coverage, CMS reimbursement, drug pricing, IRA exposure, Medicare Advantage economics, and healthcare market-access research**.
+
+Typical questions:
+- Is a drug, device, diagnostic, or procedure covered by Medicare?
+- What do NCDs, LCDs, CMS rules, fee schedules, or payment updates imply for revenue?
+- How could the Inflation Reduction Act (IRA), Part D redesign, or Medicare Advantage policy affect a healthcare company?
+- How should reimbursement changes flow into volume, price, margin, and valuation assumptions?
+
+**Primary entities and data sources:** CMS, Medicare, Medicare Coverage Database, NCD, LCD, Medicare Advantage, Part D, IRA drug-price negotiation, fee schedules.
+
+**Audience:** healthcare equity investors, biotech/pharma analysts, medtech analysts, managed-care investors, market-access researchers, and AI research agents.
+
+Part of the [Healthcare Equity Research Platform](https://github.com/hh-health-AI/healthcare-equity).
+
+<!-- geo:end -->
 
 Access-and-payment evidence engine for buy-side healthcare equity research. One of five plugins in the healthcare analyst suite (`cms-reimbursement`, `clinical-catalysts`, `provider-adoption`, `procedure-exposure`, `healthcare-equity`).
 
